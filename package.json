@@ -1,0 +1,15 @@
+{
+  "name": "flyzia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "css-minimizer-webpack-plugin": "^1.1.5",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
